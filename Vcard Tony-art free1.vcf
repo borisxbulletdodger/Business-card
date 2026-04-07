@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 17.0//EN
+N:;ТОНИ-АРТ;;;
+FN:ТОНИ-АРТ
+ORG:ТОНИ-АРТ
+TITLE:Арт Магазин
+TEL;TYPE=WORK,VOICE;VALUE=uri:tel:+359887743157
+EMAIL;type=INTERNET,WORK,pref:tonidobreva1965@gmail.com
+ADR;TYPE=WORK,PREF:;;ул. Васил Левски №8;Силистра;;7500;България
+URL;type=WORK:https://www.facebook.com/TonyArtSilistra
+NOTE:Магазин за цветя и Българска керамика
+END:VCARD
